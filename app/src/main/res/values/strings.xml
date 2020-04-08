@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HWLayouts2</string>
+    <string-array name="humanNames">
+        <item>Василий</item>
+        <item>Олег</item>
+        <item>Аркадий</item>
+        <item>Пафнутий</item>
+        <item>Дмитрий</item>
+    </string-array>
+    <string-array name="groupNames">
+        <item>Автомобилисты</item>
+        <item>Коллеги</item>
+        <item>Домашние</item>
+    </string-array>
+</resources>
